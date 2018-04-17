@@ -1,0 +1,2 @@
+Top.RTConnector1
+    Top.d2#network_comm.far[0] <-> Top.d1#network_comm.far[0]
